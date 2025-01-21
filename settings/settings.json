@@ -18,7 +18,7 @@
     "editor.fontSize": 15.5,
     "editor.mouseWheelZoom": true,
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "JellyFish",
+    "workbench.colorTheme": "Tailwind - Darkest",
     "chat.commandCenter.enabled": false,
     "security.workspace.trust.untrustedFiles": "open",
 }
